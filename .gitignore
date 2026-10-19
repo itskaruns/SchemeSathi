@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+scheme/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit & OS files
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+
+# Ingested / local outputs
+schemesathi_summary.csv
+schemesathi_report.md

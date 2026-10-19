@@ -1,0 +1,12 @@
+{
+ "PMS-SC": {
+  "source": "PMS-SC.pdf",
+  "chunks": {
+   "overview": "Post Matric Scholarship for SC students supports Scheduled Caste students studying at post-matriculation level, covering maintenance allowance and course fees.",
+   "elig": "Eligibility: the applicant must belong to the Scheduled Caste. Annual family income from all sources must not exceed Rs 2,50,000. The course must be at the post-matriculation level, including diploma, degree and postgraduate programmes.",
+   "docs": "Documents required: Aadhaar number, caste certificate, income certificate, previous year marksheet, bank passbook copy, institute admission or fee receipt.",
+   "benefit": "Benefits: maintenance allowance per month depending on course group, plus reimbursement of compulsory non-refundable fees.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ }
+}

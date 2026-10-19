@@ -1,0 +1,519 @@
+[
+ {
+  "id": "PMS-SC",
+  "name": "Post Matric Scholarship for SC Students",
+  "provider": "Ministry of Social Justice & Empowerment (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2026-09-10",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": [
+    "SC"
+   ],
+   "income_max": 250000,
+   "min_marks": null,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "category": "Scheduled Caste",
+   "income": "2,50,000",
+   "level": "post-matriculation"
+  },
+  "chunks": {
+   "overview": "Post Matric Scholarship for SC students supports Scheduled Caste students studying at post-matriculation level, covering maintenance allowance and course fees.",
+   "elig": "Eligibility: the applicant must belong to the Scheduled Caste. Annual family income from all sources must not exceed Rs 2,50,000. The course must be at the post-matriculation level, including diploma, degree and postgraduate programmes.",
+   "docs": "Documents required: Aadhaar number, caste certificate, income certificate, previous year marksheet, bank passbook copy, institute admission or fee receipt.",
+   "benefit": "Benefits: maintenance allowance per month depending on course group, plus reimbursement of compulsory non-refundable fees.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "CSSS",
+  "name": "Central Sector Scheme of Scholarship for College and University Students",
+  "provider": "Department of Higher Education (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2026-09-10",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 450000,
+   "min_marks": 80,
+   "levels": [
+    "UG",
+    "PG"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "income": "4,50,000",
+   "marks": "80%",
+   "level": "undergraduate"
+  },
+  "chunks": {
+   "overview": "The Central Sector Scheme rewards meritorious students from low-income families who pursue regular undergraduate or postgraduate courses.",
+   "elig": "Eligibility: parental income must not exceed Rs 4,50,000 per year. The student must have scored at least 80% in the qualifying examination (a simplification of the top-percentile rule used for this demo). The student must be in an undergraduate or postgraduate course. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, class 12 marksheet, income certificate, bank account details, college bonafide certificate.",
+   "benefit": "Benefits: annual scholarship amount paid for each year of the course, renewed on satisfactory academic performance.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "MH-SHAHU",
+  "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojana",
+  "provider": "Government of Maharashtra",
+  "url": "https://mahadbt.maharashtra.gov.in",
+  "last_verified": "2026-08-20",
+  "criteria": {
+   "states": [
+    "Maharashtra"
+   ],
+   "categories": [
+    "General",
+    "EWS"
+   ],
+   "income_max": 800000,
+   "min_marks": 50,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "category": "open category",
+   "income": "8,00,000",
+   "marks": "50%",
+   "level": "professional"
+  },
+  "chunks": {
+   "overview": "This Maharashtra scheme reimburses part of the tuition fees for economically weaker students from the open category in professional courses.",
+   "elig": "Eligibility: the student must be a resident of Maharashtra and belong to the open category (including EWS). Family income must not exceed Rs 8,00,000 per year. The student must have at least 50% in the previous qualifying examination. The course must be a professional or degree programme.",
+   "docs": "Documents required: domicile certificate, income certificate, previous marksheet, Aadhaar number, bank passbook copy, fee receipt.",
+   "benefit": "Benefits: partial reimbursement of tuition and examination fees paid directly through the state portal.",
+   "apply": "Apply online on the MahaDBT portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "PRAGATI",
+  "name": "AICTE Pragati Scholarship for Girls in Technical Education",
+  "provider": "AICTE (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2025-05-30",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 800000,
+   "min_marks": null,
+   "levels": [
+    "UG",
+    "Diploma"
+   ],
+   "technical_only": true,
+   "gender": "Female",
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "gender": "girl",
+   "income": "8,00,000",
+   "level": "technical"
+  },
+  "chunks": {
+   "overview": "The Pragati scholarship encourages girls to take up AICTE approved technical degree and diploma programmes.",
+   "elig": "Eligibility: the applicant must be a girl student admitted to an AICTE approved technical degree or diploma programme. Family income must not exceed Rs 8,00,000 per year. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, income certificate, admission letter, bank passbook copy, class 12 or diploma marksheet.",
+   "benefit": "Benefits: yearly financial support towards tuition fees and incidentals for the duration of the course.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "PMS-MIN",
+  "name": "Post Matric Scholarship for Minorities",
+  "provider": "Ministry of Minority Affairs (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2026-09-10",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 200000,
+   "min_marks": 50,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": true,
+   "courses": null
+  },
+  "keys": {
+   "minority": "notified minority",
+   "income": "2,00,000",
+   "marks": "50%",
+   "level": "post-matriculation"
+  },
+  "chunks": {
+   "overview": "The minorities scholarship helps students of notified minority communities continue studies at the post-matriculation level.",
+   "elig": "Eligibility: the applicant must belong to a notified minority community. Annual family income must not exceed Rs 2,00,000. The student must have scored at least 50% in the previous examination. The course must be at the post-matriculation level. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, minority community declaration, income certificate, previous marksheet, bank passbook copy, fee receipt.",
+   "benefit": "Benefits: admission and tuition fee support plus a maintenance allowance for eligible courses.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "PMS-ST",
+  "name": "Post Matric Scholarship for ST Students",
+  "provider": "Ministry of Tribal Affairs (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": [
+    "ST"
+   ],
+   "income_max": 250000,
+   "min_marks": null,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "category": "Scheduled Tribe",
+   "income": "2,50,000",
+   "level": "post-matriculation"
+  },
+  "chunks": {
+   "overview": "Post Matric Scholarship for ST students supports Scheduled Tribe students studying at post-matriculation level with maintenance allowance and compulsory fees.",
+   "elig": "Eligibility: the applicant must belong to the Scheduled Tribe. Annual family income from all sources must not exceed Rs 2,50,000. The course must be at the post-matriculation level, including diploma, degree and postgraduate programmes.",
+   "docs": "Documents required: Aadhaar number, tribe certificate, income certificate, previous year marksheet, bank passbook copy, institute fee receipt.",
+   "benefit": "Benefits: maintenance allowance per month depending on course group, plus reimbursement of compulsory non-refundable fees.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "MCM-MIN",
+  "name": "Merit-cum-Means Scholarship for Professional and Technical Courses (Minorities)",
+  "provider": "Ministry of Minority Affairs (Central)",
+  "url": "https://scholarships.gov.in",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 250000,
+   "min_marks": 50,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": true,
+   "gender": null,
+   "minority_required": true,
+   "courses": null
+  },
+  "keys": {
+   "minority": "notified minority",
+   "income": "2,50,000",
+   "marks": "50%",
+   "level": "technical"
+  },
+  "chunks": {
+   "overview": "The merit-cum-means scholarship helps students of notified minority communities who pursue professional and technical courses.",
+   "elig": "Eligibility: the applicant must belong to a notified minority community. Family income must not exceed Rs 2,50,000 per year. The student must have at least 50% in the previous qualifying examination. The course must be a technical or professional programme.",
+   "docs": "Documents required: Aadhaar number, minority community declaration, income certificate, previous marksheet, admission letter, bank passbook copy.",
+   "benefit": "Benefits: course fee and maintenance allowance up to a fixed annual limit.",
+   "apply": "Apply online through the National Scholarship Portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "MH-OBC",
+  "name": "Post Matric Scholarship for OBC Students (Maharashtra)",
+  "provider": "Government of Maharashtra",
+  "url": "https://mahadbt.maharashtra.gov.in",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "Maharashtra"
+   ],
+   "categories": [
+    "OBC"
+   ],
+   "income_max": 800000,
+   "min_marks": null,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "category": "Other Backward Class",
+   "income": "8,00,000",
+   "level": "post-matriculation"
+  },
+  "chunks": {
+   "overview": "This Maharashtra scheme supports students of Other Backward Classes at post-matriculation level by reimbursing fees and giving maintenance support.",
+   "elig": "Eligibility: the student must be a resident of Maharashtra and belong to the Other Backward Class. Family income must not exceed Rs 8,00,000 per year. The course must be at the post-matriculation level, including diploma, degree and postgraduate programmes.",
+   "docs": "Documents required: domicile certificate, caste certificate, non-creamy layer certificate, income certificate, previous marksheet, bank passbook copy.",
+   "benefit": "Benefits: reimbursement of eligible tuition and examination fees and a maintenance allowance.",
+   "apply": "Apply online through the MahaDBT portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "WB-SVMCM",
+  "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+  "provider": "Government of West Bengal",
+  "url": "https://svmcm.wbhed.gov.in",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "West Bengal"
+   ],
+   "categories": null,
+   "income_max": 250000,
+   "min_marks": 60,
+   "levels": [
+    "UG",
+    "PG"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "income": "2,50,000",
+   "marks": "60%",
+   "level": "undergraduate"
+  },
+  "chunks": {
+   "overview": "The Swami Vivekananda scholarship gives monthly financial support to meritorious students from low-income families in West Bengal.",
+   "elig": "Eligibility: the student must be a resident of West Bengal. Family income must not exceed Rs 2,50,000 per year. The student must have at least 60% in the qualifying examination. The student must be in an undergraduate or postgraduate course.",
+   "docs": "Documents required: domicile certificate, income certificate, class 12 marksheet, Aadhaar number, bank passbook copy, college bonafide certificate.",
+   "benefit": "Benefits: monthly scholarship amount paid for the duration of the course.",
+   "apply": "Apply online through the state scholarship portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "GJ-MYSY",
+  "name": "Mukhyamantri Yuva Swavalamban Yojana (MYSY)",
+  "provider": "Government of Gujarat",
+  "url": "https://mysy.guj.nic.in",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "Gujarat"
+   ],
+   "categories": null,
+   "income_max": 600000,
+   "min_marks": 80,
+   "levels": [
+    "UG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "income": "6,00,000",
+   "marks": "80%",
+   "level": "undergraduate"
+  },
+  "chunks": {
+   "overview": "MYSY supports meritorious students of Gujarat with tuition fee assistance for higher education.",
+   "elig": "Eligibility: the student must be a resident of Gujarat. Family income must not exceed Rs 6,00,000 per year. The student must have scored at least 80% in the qualifying examination (a simplification of the percentile rule used for this demo). The student must be in an undergraduate or diploma course.",
+   "docs": "Documents required: domicile certificate, income certificate, class 12 marksheet, Aadhaar number, bank passbook copy, admission letter.",
+   "benefit": "Benefits: partial tuition fee assistance for approved courses.",
+   "apply": "Apply online through the MYSY portal. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "KOTAK-KANYA",
+  "name": "Kotak Kanya Scholarship",
+  "provider": "Kotak Education Foundation (Private / CSR)",
+  "url": "https://www.buddy4study.com",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 600000,
+   "min_marks": 75,
+   "levels": [
+    "UG"
+   ],
+   "technical_only": false,
+   "gender": "Female",
+   "minority_required": false,
+   "courses": [
+    "B.Tech / B.E.",
+    "MBBS"
+   ]
+  },
+  "keys": {
+   "gender": "girl",
+   "income": "6,00,000",
+   "marks": "75%",
+   "course": "professional"
+  },
+  "chunks": {
+   "overview": "The Kotak Kanya Scholarship supports meritorious girls from low-income families who pursue professional undergraduate courses.",
+   "elig": "Eligibility: the applicant must be a girl student. Family income must not exceed Rs 6,00,000 per year. The student must have scored at least 75% in class 12. The course must be a professional undergraduate programme such as engineering or medicine. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, class 12 marksheet, income certificate, admission letter, bank passbook copy.",
+   "benefit": "Benefits: yearly financial support towards course expenses.",
+   "apply": "Apply online through the foundation's online application page. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "LIC-GJS",
+  "name": "LIC Golden Jubilee Scholarship",
+  "provider": "LIC of India (Corporate)",
+  "url": "https://www.buddy4study.com",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 250000,
+   "min_marks": 60,
+   "levels": [
+    "UG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "income": "2,50,000",
+   "marks": "60%",
+   "level": "undergraduate"
+  },
+  "chunks": {
+   "overview": "The LIC Golden Jubilee Scholarship helps meritorious students from low-income families continue undergraduate or diploma studies.",
+   "elig": "Eligibility: family income must not exceed Rs 2,50,000 per year. The student must have at least 60% in class 12 or equivalent. The student must be in an undergraduate or diploma course. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, income certificate, class 12 marksheet, admission letter, bank passbook copy.",
+   "benefit": "Benefits: yearly scholarship amount for the duration of the course.",
+   "apply": "Apply online through the LIC scholarship application page. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "ONGC",
+  "name": "ONGC Foundation Scholarship for Professional Courses",
+  "provider": "ONGC Foundation (PSU / CSR)",
+  "url": "https://www.buddy4study.com",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 450000,
+   "min_marks": 60,
+   "levels": [
+    "UG",
+    "PG"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": [
+    "B.Tech / B.E.",
+    "M.Tech",
+    "MBBS",
+    "MBA"
+   ]
+  },
+  "keys": {
+   "income": "4,50,000",
+   "marks": "60%",
+   "course": "professional"
+  },
+  "chunks": {
+   "overview": "The ONGC Foundation scholarship supports meritorious students from low-income families in engineering, medicine and management programmes.",
+   "elig": "Eligibility: family income must not exceed Rs 4,50,000 per year. The student must have at least 60% in the qualifying examination. The course must be a professional programme in engineering, medicine or management. The student must not be receiving any other scholarship.",
+   "docs": "Documents required: Aadhaar number, income certificate, previous marksheet, admission letter, bank passbook copy.",
+   "benefit": "Benefits: fixed yearly scholarship amount for the duration of the course.",
+   "apply": "Apply online through the foundation's online application page. Application windows differ every year, so check the portal for the current deadline."
+  }
+ },
+ {
+  "id": "HDFC-ECSS",
+  "name": "HDFC Parivartan Educational Crisis Scholarship Support",
+  "provider": "HDFC Bank Parivartan (Private / CSR)",
+  "url": "https://www.buddy4study.com",
+  "last_verified": "2026-10-18",
+  "criteria": {
+   "states": [
+    "ALL"
+   ],
+   "categories": null,
+   "income_max": 250000,
+   "min_marks": 55,
+   "levels": [
+    "UG",
+    "PG",
+    "Diploma"
+   ],
+   "technical_only": false,
+   "gender": null,
+   "minority_required": false,
+   "courses": null
+  },
+  "keys": {
+   "income": "2,50,000",
+   "marks": "55%",
+   "level": "undergraduate"
+  },
+  "chunks": {
+   "overview": "The HDFC Parivartan scholarship supports students who face a financial crisis while studying at undergraduate, postgraduate or diploma level.",
+   "elig": "Eligibility: family income must not exceed Rs 2,50,000 per year. The student must have at least 55% in the previous examination. The student must be in an undergraduate, postgraduate or diploma course.",
+   "docs": "Documents required: Aadhaar number, income certificate, previous marksheet, admission fee receipt, bank passbook copy.",
+   "benefit": "Benefits: one-time financial assistance towards education expenses.",
+   "apply": "Apply online through the foundation's online application page. Application windows differ every year, so check the portal for the current deadline."
+  }
+ }
+]
